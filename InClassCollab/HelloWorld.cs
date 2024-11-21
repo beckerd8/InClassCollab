@@ -11,6 +11,8 @@ namespace InClassCollab
         public static void SayHello() 
         {
             Console.WriteLine("Micheal Slivinski smells like cheese and he has to merge this!()");
+
+            Console.WriteLine("This is not completely true.");
         }
     }
 }
